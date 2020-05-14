@@ -1,3 +1,0 @@
-/home/hao/Downloads/git/Questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/hao/Downloads/git/Questions/cmake-build-debug/CMakeFiles/Questions.dir
-/home/hao/Downloads/git/Questions/cmake-build-debug/CMakeFiles/edit_cache.dir
