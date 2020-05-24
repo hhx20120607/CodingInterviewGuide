@@ -4,4 +4,4 @@ project(Questions)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(Questions
-        question1_9.cpp)
+        question2_5.cpp)
