@@ -14,7 +14,6 @@ typedef struct node
 } node;
 
 node nodes[maxn];
-
 void midOrderTraverse(node* t,node* &pre,bool &res)
 {
     if(t->left)
