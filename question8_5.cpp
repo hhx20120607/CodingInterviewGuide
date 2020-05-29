@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+/**
+ * 需要排序的最短子数组长度
+ */
 int main()
 {
     freopen("data.in","r",stdin);

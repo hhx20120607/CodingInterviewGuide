@@ -2,6 +2,9 @@
 #include<string.h>
 #include<stdlib.h>
 
+/**
+ * 数组的小和
+ */
 long long mergeSort(int* arr,int l,int r){
     if(l==r)
         return 0;
